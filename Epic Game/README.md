@@ -1,4 +1,5 @@
-  ###Epic Video Game Sales and Ratings Analysis(Tableau)
+###Epic Video Game Sales and Ratings Analysis(Tableau)
+
 ##Project overview:
 This project involves analyzing Epic game sales data using Tableau to gain insights into North America sales, Europe sales, Japan sales, other sales, Global sales , and rating.
 
