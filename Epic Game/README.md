@@ -1,15 +1,15 @@
 Epic Video Game Sales and Ratings Analysis(Tableau)
 
-##Project overview:
+##Project overview:<br>
 This project involves analyzing Epic game sales data using Tableau to gain insights into North America sales, Europe sales, Japan sales, other sales, Global sales , and rating.
 
-#Objectives:
+#Objectives:<br>
 •	Analyze all sales.<br>
 •	Identify top-performing publisher by eu_sales.<br>
 •	Examine sales trends by developer and rating.<br>
 •	Develop dashboards for data-driver decision making.<br>
  
-#Dataset:
+#Dataset:<br>
 • Name: This column represents the name of each video game in the dataset, providing a unique identifier for each entry.<br>
 • Platform: The "Platform" column denotes the gaming platform on which each game is designed to be played. It encompasses a wide range of platforms, including popular ones like PlayStation, Xbox, and PC, among others.<br>
 • Year of Release: This column captures the year in which each game was released, providing a temporal perspective on the gaming industry's evolution over time.<br>
@@ -27,24 +27,24 @@ This project involves analyzing Epic game sales data using Tableau to gain insig
 • Developer: The "Developer" column specifies the company or individual responsible for developing each game. <br>
 • Rating: The "Rating" column signifies the age rating or content rating assigned to each game.<br> 
 
-#Visualizations:
+#Visualizations:<br>
 
-•	Sales trends:
+•	Sales trends:<br>
 Area Chart: Genres by Global sales.<br>
 Tree map: Publisher by eu sales.<br>
 Bar chart: Platform by user count.<br>
-•	Top Performing :
+•	Top Performing :<br>
 Funnel chart: Genre by other sales.<br>
 Highlight table: Genre by Global sales.<br>
 Bubble chart: Developer by Global sales.<br>
 Pie chart: Rating by sales<br>
 
 
-Dashboards:
+Dashboards:<br>
 •	Sales trends dashboard.<br>
 •	Rating performance dashboard.<br>
 
-#Key insight:
+#Key insight:<br>
 •	Improved sales.<br>
 •	Enhanced rating performance.<br>
 •	Data drive decision making.<br>
