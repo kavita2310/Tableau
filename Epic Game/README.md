@@ -1,15 +1,18 @@
-Epic Video Game Sales and Ratings Analysis(Tableau)
+<h1>Epic Video Game Sales and Ratings Analysis(Tableau)</h1>
 
-##Project overview:<br>
-This project involves analyzing Epic game sales data using Tableau to gain insights into North America sales, Europe sales, Japan sales, other sales, Global sales , and rating.
+<h1>Project overview:</h1>
 
-#Objectives:<br>
+This project involves analyzing Epic game sales data using Tableau to gain insights into North<br>
+America sales, Europe sales, Japan sales, other sales, Global sales , and rating.<br>
+
+<h1>Objectives:</h1>
+
 •	Analyze all sales.<br>
 •	Identify top-performing publisher by eu_sales.<br>
 •	Examine sales trends by developer and rating.<br>
 •	Develop dashboards for data-driver decision making.<br>
  
-#Dataset:<br>
+<h1>Dataset:</h1>
 • Name: This column represents the name of each video game in the dataset, providing a unique identifier for each entry.<br>
 • Platform: The "Platform" column denotes the gaming platform on which each game is designed to be played. It encompasses a wide range of platforms, including popular ones like PlayStation, Xbox, and PC, among others.<br>
 • Year of Release: This column captures the year in which each game was released, providing a temporal perspective on the gaming industry's evolution over time.<br>
@@ -27,7 +30,7 @@ This project involves analyzing Epic game sales data using Tableau to gain insig
 • Developer: The "Developer" column specifies the company or individual responsible for developing each game. <br>
 • Rating: The "Rating" column signifies the age rating or content rating assigned to each game.<br> 
 
-#Visualizations:<br>
+<h1>Visualizations:</h1>
 
 •	Sales trends:<br>
 Area Chart: Genres by Global sales.<br>
@@ -40,11 +43,13 @@ Bubble chart: Developer by Global sales.<br>
 Pie chart: Rating by sales<br>
 
 
-Dashboards:<br>
+<h1>Dashboards:</h1>
+
 •	Sales trends dashboard.<br>
 •	Rating performance dashboard.<br>
 
-#Key insight:<br>
+<h1>Key insight:</h1>
+                  
 •	Improved sales.<br>
 •	Enhanced rating performance.<br>
 •	Data drive decision making.<br>
